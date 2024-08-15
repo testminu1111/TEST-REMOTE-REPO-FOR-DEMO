@@ -8,6 +8,8 @@ public class TC_1 {
     void  m1(){
 
         System.out.println("Hello Java1");
+          System.out.println("Hello Java1");
+          System.out.println("Hello Java1");
     }
 
 
