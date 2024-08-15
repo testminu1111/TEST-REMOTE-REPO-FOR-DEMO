@@ -10,5 +10,10 @@ public class TC_03{
         System.out.println("Hello Java1");
         System.out.println("Hello Java1");
     }
+    void  m2(){
 
+        System.out.println("Hello Java1");
+        System.out.println("Hello Java1");
+        System.out.println("Hello Java1");
+    }
 }
